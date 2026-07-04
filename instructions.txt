@@ -2,3 +2,10 @@ creating a URL shortner that takes valid url and returns shortened url .
 
 also keeps track of total visits/clicks on url.
 
+Routes
+
+POST /URL - generate a new short url 
+
+GET /:id - Redirect user to original ID 
+
+GET /URL/analytics/:id - Returns no of clicks for provided short id 
