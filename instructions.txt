@@ -1,0 +1,4 @@
+creating a URL shortner that takes valid url and returns shortened url .
+
+also keeps track of total visits/clicks on url.
+
